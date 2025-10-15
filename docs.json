@@ -53,7 +53,7 @@
       ]
     }
   },
-  "logo": "./logo/profile.png",
+  "logo": "./logo/logo.svg",
   "navbar": {
     "primary": {
       "type": "button",

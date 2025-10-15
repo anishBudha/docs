@@ -15,27 +15,15 @@
         "groups": [
           {
             "group": "Who am I",
-            "pages": ["index"]
+            "pages": [
+              "index"
+            ]
           }
         ]
       },
       {
         "tab": "Portfolio",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": ["api-reference/introduction"]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
+        "groups": []
       }
     ],
     "global": {
@@ -53,7 +41,7 @@
       ]
     }
   },
-  "logo": "./logo/logo.svg",
+  "logo": "./logo/profile.png",
   "navbar": {
     "primary": {
       "type": "button",

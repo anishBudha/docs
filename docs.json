@@ -5,7 +5,7 @@
   "colors": {
     "primary": "#000000",
     "light": "#FFFFFF",
-    "dark": "#000000"
+    "dark": "#808080"
   },
   "favicon": "/favicon.svg",
   "navigation": {

@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "anish budha",
+  "name": "anishbudha",
   "colors": {
     "primary": "#C2410C",
     "light": "#C2410C",
@@ -14,29 +14,8 @@
         "tab": "Profile",
         "groups": [
           {
-            "group": "Getting started",
-            "pages": ["index", "quickstart", "development"]
-          },
-          {
-            "group": "Customization",
-            "pages": ["essentials/settings", "essentials/navigation"]
-          },
-          {
-            "group": "Writing content",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
+            "group": "Who am I",
+            "pages": ["index"]
           }
         ]
       },
@@ -74,10 +53,7 @@
       ]
     }
   },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
+  "logo": "/favicon.svg",
   "navbar": {
     "links": [
       {

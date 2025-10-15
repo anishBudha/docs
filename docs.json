@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "anish budha",
   "colors": {
-    "primary": "#FFFFFF",
-    "light": "#E5E7EB",
-    "dark": "#FFFFFF"
+    "primary": "#C2410C",
+    "light": "#C2410C",
+    "dark": "#9A3412"
   },
   "favicon": "/favicon.svg",
   "navigation": {

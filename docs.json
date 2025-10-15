@@ -31,7 +31,7 @@
       ]
     }
   },
-  "logo": "/logo/logo.svg",
+  "logo": "/logo/logo-black.png",
   "navbar": {
     "primary": {
       "type": "button",

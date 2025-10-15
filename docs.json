@@ -53,7 +53,7 @@
       ]
     }
   },
-  "logo": "/favicon.svg",
+  "logo": "./logo/profile.png",
   "navbar": {
     "links": [
       {
